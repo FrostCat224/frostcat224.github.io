@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fcmod</title>
+
+    <style>
+      body {
+        background: black;
+        color: white;
+        font-family: Verdana;
+      }
+
+      .rainbow-button {
+        display: inline-block;
+        padding: 12px 24px;
+        margin: 5px;
+        color: white;
+        text-decoration: none;
+        background:
+          linear-gradient(black, black) padding-box,
+          linear-gradient(
+            45deg,
+            red,
+            orange,
+            yellow,
+            lime,
+            cyan,
+            blue,
+            violet,
+            red
+          ) border-box;
+        border: 3px solid transparent;
+        border-radius: 0px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>fcmod</h1>
+    
+    <p>(home)</p>
+    <p>i do not support piracy. all games here are free, and were free forever. </p>
+    <p> these games are unblocked, they work on for example school wi-fi. have fun :)</p>
+    <p> </p>
+    <p> </p>
+
+    <a class="rainbow-button" href="html" target="_blank">
+      html
+    </a>
+
+    <a class="rainbow-button" href="emulator" target="_blank">
+      emulator
+    </a>
+
+    <a class="rainbow-button" href="scratch" target="_blank">
+      scratch
+    </a>
+  </body>
+</html>
